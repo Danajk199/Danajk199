@@ -22,7 +22,7 @@
 
 ### 🔝 Top Contributed Repo 
 
-![](https://github-contributor-stats.vercel.app/api?username=danajk199&limit=5&theme=dark&combine_all_yearly_contributions=true) #
+![](https://github-contributor-stats.vercel.app/api?username=danajk199&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
